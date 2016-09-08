@@ -1,0 +1,34 @@
+body{
+    background-color:#d6d6c2;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7px;
+}
+  h1 {
+     color: #ff80ff;
+     border: 10px double #ff80ff;
+     text-align: center;
+     margin: 50px;
+}
+
+h2{
+    color: #aa80ff;
+    text-align: left;
+    font-size: 30px;
+}
+
+p { font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+    color: #248f8f;
+}
+
+/* unvisited link */
+a:link {
+    color: #ff80ff;
+}
+
+/* visited link */
+a:visited {
+    color: #ff80ff;
+}
